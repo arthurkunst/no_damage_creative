@@ -2,4 +2,4 @@
 
 Minetest No damage mode for creative privilege
 
-Automatically heals any player with creative privilege when they receive damage
+- Automatically heals any player with creative privilege when they receive damage
